@@ -1,0 +1,1 @@
+1. Learn [[KDE Telepathy][https://community.kde.org/KTp]]
