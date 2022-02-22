@@ -1,5 +1,5 @@
 ** WeChat
-使用 [[DoChat][https://github.com/huan/docker-wechat]] 作为Linux下的 Wechat
+使用 [[https://github.com/huan/docker-wechat][docker-wechat]] 作为Linux下的 Wechat
 
 *** 遇到的问题:
 1. 安装时遇到 `X Error of failed request: GLXBadContext` 异常
